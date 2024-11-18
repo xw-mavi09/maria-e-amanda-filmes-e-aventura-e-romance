@@ -6,10 +6,10 @@ body {
     margin-bottom: 100px;
 }
 header {
-    border-bottom: solid 2px rgb(79, 27, 147);
+    border-bottom: solid 2px rgb(178, 83, 255);
     padding: 20px;
     font-size: 32px;
-    color: rgb(79, 27, 147);
+    color: rgb(178, 83, 255);
 }
 .chamada {
     background: rgb(184, 156, 213);
